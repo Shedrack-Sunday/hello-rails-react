@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# rubocop:enable
 class GreetingsController < ApplicationController
   def random
     greeting = Greeting.order('RANDOM()').first
