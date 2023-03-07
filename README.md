@@ -122,7 +122,7 @@ rspec
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **David Tamayo**
+👤 **Shedrack Sundays**
 
 - GitHub: [@Shedrack-Sunday](https://github.com/Shedrack-Sunday)
 - Twitter: [@DelesundayS](https://twitter.com/DeleSundayS)
