@@ -87,7 +87,9 @@ Install this project with:
 
 ```
 cd hello-rails-react
-bundle install
+bundle install 
+yarn install 
+yarn build
 ```
 
 ### Create database
