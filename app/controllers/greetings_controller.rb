@@ -3,4 +3,5 @@ class GreetingsController < ApplicationController
     greeting = Greeting.order('RANDOM()').first
     render json: greeting
   end
+  # rubocop:enable
 end
